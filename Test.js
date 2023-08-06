@@ -1,14 +1,14 @@
 const imageUrls = [
-    "./testImage/image1.png",
-    "./testImage/image2.png",
-    "./testImage/image3.png",
-    "./testImage/image4.png",
-    "./testImage/image5.png",
-    "./testImage/day1.png",
-    "./testImage/day2.png",
-    "./testImage/day3.png",
-    "./testImage/day4.png",
-    "./testImage/day5.png",
+    "./Image/image1.png",
+    "./Image/image2.png",
+    "./Image/image3.png",
+    "./Image/image4.png",
+    "./Image/image5.png",
+    "./Image/day1.png",
+    "./Image/day2.png",
+    "./Image/day3.png",
+    "./Image/day4.png",
+    "./Image/day5.png",
     
   ];
   
